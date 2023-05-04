@@ -1,9 +1,5 @@
-os
-shutil
-datetime
-opencv-python
-time
-moviepy
-wmi
-bs4
-selenium
+opencv-python==4.7.0.72
+moviepy==1.0.3
+wmi==1.5.1
+bs4==0.0.1
+selenium==4.2.0
