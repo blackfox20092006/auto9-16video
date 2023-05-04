@@ -3,3 +3,4 @@ moviepy==1.0.3
 wmi==1.5.1
 bs4==0.0.1
 selenium==4.2.0
+ffmpeg==1.4
