@@ -4,12 +4,14 @@
   1. Tải về và giải nén
   2. Mở trình dòng lệnh và di chuyển về vị trí thư mục hiện tại
   3. Sau đó sử dụng lệnh "python.exe -m pip install -r requirements.txt" để cài đặt các module cần thiết
-  4. Sau đó tại vị trí thư mục, sử dụng lệnh "python.exe main.pyc" để khởi động tool
+  4. Tải phiên bản Chromedriver tương thích với phiên bản Chrome hiện có trên máy bạn tại : "https://chromedriver.chromium.org/downloads"
+  5. Sau đó tại vị trí thư mục, sử dụng lệnh "python.exe main.pyc" để khởi động tool
  
 #Các yêu cầu cần thiết để sử dụng tool : 
   1. Hệ điều hành Windows các phiên bản
   2. Python 3.11.3
         "https://www.python.org/ftp/python/3.11.3/python-3.11.3-amd64.exe"
+  3. Có trình duyệt Chrome và Chromedriver
 
 #Hướng dẫn sử dụng : 
   - Tool sẽ tạo tự động video có dạng như sau : "https://www.tiktok.com/@qn.qn.qn12/video/7229531613741288705?lang=en"
