@@ -4,7 +4,7 @@
   1. Tải về và giải nén
   2. Mở trình dòng lệnh và di chuyển về vị trí thư mục hiện tại
   3. Tải phiên bản Chromedriver tương thích với phiên bản Chrome hiện có trên máy bạn tại : "https://chromedriver.chromium.org/downloads"
-  4. Sau đó tại vị trí thư mục, sử dụng lệnh "python.exe main.pyc" để khởi động tool
+  4. Sau đó tại vị trí thư mục, sử dụng lệnh "python.exe mainenc.py" để khởi động tool
  
 #Các yêu cầu cần thiết để sử dụng tool : 
   1. Hệ điều hành Windows các phiên bản
