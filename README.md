@@ -1,3 +1,5 @@
+# (Coming soon because Tiktok has changed the API...)
+
 # auto9:16video
 
 #Để cài đặt và sử dụng tool : 
